@@ -2,6 +2,6 @@
 <h3 align="center">3rd Year Apprentice Developer & University Student</h3>
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=z-shi&show_icons=true&locale=en" alt="z-shi" />
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=z-shi&show_icons=true&locale=en" alt="z-shi" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=westkath&show_icons=true&locale=en" alt="westkath" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=westkath&show_icons=true&locale=en" alt="westkath" />
 </p>
